@@ -1,0 +1,13 @@
+git_push.sh
+.travis.yml
+.github
+.gitlab-ci.yml
+appveyor.yml
+build.sbt
+tox.ini
+gradle
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
+.openapi-generator-ignore
